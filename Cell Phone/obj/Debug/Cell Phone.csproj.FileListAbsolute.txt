@@ -1,0 +1,11 @@
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\bin\Debug\Cell Phone.exe.config
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\bin\Debug\Cell Phone.exe
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\bin\Debug\Cell Phone.pdb
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\obj\Debug\Cell Phone.csproj.AssemblyReference.cache
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\obj\Debug\Cell_Phone.Form1.resources
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\obj\Debug\Cell_Phone.Properties.Resources.resources
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\obj\Debug\Cell Phone.csproj.GenerateResource.cache
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\obj\Debug\Cell Phone.csproj.CoreCompileInputs.cache
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\obj\Debug\Cell Phone.exe
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\obj\Debug\Cell Phone.pdb
+C:\Users\Anwar\source\repos\Cell Phone\Cell Phone\obj\Debug\Cell_Phone.Form2.resources
